@@ -3,16 +3,6 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/rosariocalvo/PCOMP/blob/main/M01_E02_PRINT_SUMAR_calvo_rosario_210313060\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
         "id": "GHvxDkbGR3sn"
       },
       "source": [
@@ -665,8 +655,7 @@
       "version": "3.9.13"
     },
     "colab": {
-      "provenance": [],
-      "include_colab_link": true
+      "provenance": []
     }
   },
   "nbformat": 4,
